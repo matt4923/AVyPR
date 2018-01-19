@@ -1,0 +1,4185 @@
+STATION
+Extension: 216-1000
+Type: 9611SIP  
+Port: S00000 
+Name: BrandonsPhone              
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 2   
+Coverage Path 2: 3   
+Hunt-to Station: BCC: 0
+TN: 1  
+COR: 3  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-1000
+Button Modules: 0
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: none 
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-1000
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: ...
+3
+...
+4
+...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+auto-cback
+14: ...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: aar 
+STATION
+Extension: 216-1027
+Type: 9611SIP  
+Port: S00132 
+Name: asdfasdfasdfasdf           
+Lock Messages: n
+Security Code: ...
+Coverage Path 1
+23  
+Coverage Path 2: 66  
+Hunt-to Station: BCC: 0
+TN: 1  
+COR: 3  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-1027
+Button Modules: 0
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-1027
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: Avaya 
+SIP Trunk: STATION
+Extension: 216-1028
+Type: 9611SIP  
+Port: S00133 
+Name: new ip test                
+Lock Messages: n
+Security Code: ...
+Coverage Path 1
+99  
+Coverage Path 2: 76  
+Hunt-to Station: BCC: 0
+TN: 1  
+COR: 3  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-1028
+Button Modules: 0
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-1028
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: STATION
+Extension: 216-1034
+Type: 9611SIP  
+Port: S00138 
+Name: Matt IP                    
+Lock Messages: n
+Security Code: ...
+Coverage Path 1
+4   
+Coverage Path 2: 5   
+Hunt-to Station: BCC: 0
+TN: 1  
+COR: 333
+COS: 3 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-1034
+Button Modules: 0
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: continuous    
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-1034
+Always Use: y
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: 3k        
+Jack: 34kl 
+Cable: ...
+Floor
+first     
+Building: b4        
+Headset: n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: STATION
+Extension: 216-1035
+Type: 9611SIP  
+Port: S00139 
+Name: another IP                 
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: ...
+Coverage Path 2
+...
+Hunt-to Station
+BCC: 0
+TN: 1  
+COR: 3  
+COS: 3 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-1035
+Button Modules: 0
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: y
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-1035
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+first     
+Building: building1 
+Headset: n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: call-fwd  
+Ext: 216-4501
+10: call-park 
+11: cfwd-bsyda
+Ext: ...
+12
+cfwd-enh  
+Ext: 216-4500
+13: cpn-blk   
+14: cpn-unblk 
+15: call-unpk 
+16: ec500     
+Timer: n
+17: exclusion 
+18: extnd-call
+19: mct-act   
+20: priority  
+21: send-calls
+Ext: 216-4502
+22: team      
+Ext: 216-4501
+Rg:
+n
+23: whisp-act 
+24: STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: STATION
+Extension: 216-4100
+Type: 9611SIP  
+Port: S00003 
+Name: Weak Sauce Lennie          
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: ...
+Coverage Path 2
+...
+Hunt-to Station
+BCC: 0
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4100
+Button Modules: 0
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: y
+Per Button Ring Control: y
+Bridged Call Alerting: y
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-4100
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+Auto-A/D: n
+Rg:
+r
+2: call-appr 
+Auto-A/D: n
+Rg:
+r
+3: call-appr 
+Auto-A/D: n
+Rg:
+r
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: aar 
+STATION
+Extension: 216-4120
+Type: 9611SIP  
+Port: S00056 
+Name: Len Vanderhoven            
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4120
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4120
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4121
+Type: 9611SIP  
+Port: S00026 
+Name: Cathy Vanderhoven          
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4121
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4121
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4134
+Type: 9611SIP  
+Port: S00062 
+Name: Sharlene Arthur            
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4134
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4134
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4200
+Type: 9611SIP  
+Port: S00065 
+Name: Shawn Vanderhoven          
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 5  
+COS: 4 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4200
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4200
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4201
+Type: 9611SIP  
+Port: S00044 
+Name: Jon Kim                    
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4201
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4201
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4304
+Type: 9611SIP  
+Port: S00032 
+Name: Erin Vanderhoven           
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4304
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4304
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4309
+Type: 9611SIP  
+Port: S00011 
+Name: Todd Ream                  
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4309
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4309
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4314
+Type: 9611SIP  
+Port: S00038 
+Name: Jeremy Jensen              
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4314
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4314
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4322
+Type: 9611SIP  
+Port: S00014 
+Name: Ty Turner                  
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4322
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4322
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4323
+Type: 9611SIP  
+Port: S00041 
+Name: Jeremy Lemon               
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4323
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4323
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4325
+Type: 9611SIP  
+Port: S00035 
+Name: Jared Davies               
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4325
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4325
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4326
+Type: 9611SIP  
+Port: S00017 
+Name: Van Smith                  
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4326
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4326
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4327
+Type: 9611SIP  
+Port: S00029 
+Name: Dan Pitcher                
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4327
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4327
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: 3         
+Jack: 3    
+Cable: ...
+Floor
+first     
+Building: building2 
+Headset: n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4401
+Type: 9611SIP  
+Port: S00007 
+Name: Brett The Man              
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4401
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4401
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4407
+Type: 9611SIP  
+Port: S00047 
+Name: Keith McMillen             
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4407
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4407
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4408
+Type: 9611SIP  
+Port: S00050 
+Name: Kiran Jayakumar            
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4408
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4408
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4411
+Type: 9611SIP  
+Port: S00020 
+Name: Brandon Griffin            
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4411
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4411
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4421
+Type: 9611SIP  
+Port: S00059 
+Name: Mark Wood                  
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4421
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-4421
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-4501
+Type: 9611SIP  
+Port: S00004 
+Name: Brandon Desk               
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: ...
+Coverage Path 2
+...
+Hunt-to Station
+BCC: 0
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4501
+Button Modules: 1
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-4501
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+BUTTON MODULE #1 ASSIGNMENTS
+1: ...
+2
+...
+3
+...
+4
+...
+5
+...
+6
+...
+7
+...
+8
+...
+9
+...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: aar 
+STATION
+Extension: 216-4502
+Type: 9611SIP  
+Port: S00001 
+Name: Matts desk phone           
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 99  
+Coverage Path 2: 55  
+Hunt-to Station: 216-4401
+BCC: 0
+TN: 1  
+COR: 3  
+COS: 5 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4502
+Button Modules: 1
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-4502
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: y
+EC500 State: enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: 3d        
+Jack: 44r  
+Cable: ca122
+Floor: second    
+Building: b4        
+Headset: n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: personal
+1   
+List2: ...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: autodial  
+1234567                 
+5: autodial  
+1111111                 
+6: autodial  
+2222222                 
+7: autodial  
+3333333                 
+8: autodial  
+4444444                 
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+BUTTON MODULE #1 ASSIGNMENTS
+1: ...
+2
+...
+3
+...
+4
+...
+5
+...
+6
+...
+7
+...
+8
+...
+9
+...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: Avaya 
+SIP Trunk: ars 
+STATION
+Extension: 216-4503
+Type: 9611SIP  
+Port: S00074 
+Name: Mark Moulton               
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: ...
+Coverage Path 2
+...
+Hunt-to Station
+BCC: 0
+TN: 1  
+COR: 3  
+COS: 4 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-4503
+Button Modules: 0
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-4503
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: ...
+4
+...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-5000
+Type: 9611SIP  
+Port: S00114 
+Name: Another Tests Set          
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: ...
+Coverage Path 2
+...
+Hunt-to Station
+BCC: 0
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-5000
+Button Modules: 0
+IP SoftPhone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Emergency Location Ext
+216-5000
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: aar 
+STATION
+Extension: 216-5410
+Type: 9611SIP  
+Port: S00053 
+Name: Kord McLemore              
+Lock Messages: n
+Security Code: *       
+Coverage Path 1: 1   
+Coverage Path 2: 1   
+Hunt-to Station: BCC: M
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 19
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Message Lamp Ext
+216-5410
+Button Modules: 0
+IP SoftPhone: y
+IP Video Softphone: y
+Short/Prefixed Registration Allowed: default
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+CDR Privacy: n
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+MWI Served User Type: ...
+AUDIX Name
+...
+Remote Softphone Emergency Calls
+as-on-local
+Emergency Location Ext: 216-5410
+Always Use: n
+Precedence Call Waiting: y
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Coverage After Forwarding: s
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Bridged Appearance Origination Restriction: n
+IP Phone Group ID: ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+FEATURE BUTTON ASSIGNMENTS
+9: ...
+10
+...
+11
+...
+12
+...
+13
+...
+14
+...
+15
+...
+16
+...
+17
+...
+18
+...
+19
+...
+20
+...
+21
+...
+22
+...
+23
+...
+24
+STATION
+SIP FEATURE OPTIONS
+Type of 3PCC Enabled: None  
+SIP Trunk: ars 
+STATION
+Extension: 216-9988
+Type: 6408D+   
+Port: X      
+Name: test                       
+Lock Messages: n
+Security Code: ...
+Coverage Path 1
+...
+Coverage Path 2
+...
+Hunt-to Station
+BCC: 0
+TN: 1  
+COR: 1  
+COS: 1 
+STATION OPTIONS
+Loss Group: 2 
+Data Module: n
+Speakerphone: 2-way     
+Display Language: english     
+Survivable COR: internal    
+Survivable Trunk Dest: y
+Time of Day Lock Table: ...
+Personalized Ringing Pattern
+1
+Message Lamp Ext: 216-9988
+Mute Button Enabled: y
+Media Complex Ext: ...
+IP SoftPhone
+n
+Remote Office Phone: n
+IP Video: n
+STATION
+FEATURE OPTIONS
+LWC Reception: spe  
+LWC Activation: y
+LWC Log External Calls: n
+CDR Privacy: n
+Redirect Notification: y
+Per Button Ring Control: n
+Bridged Call Alerting: n
+Active Station Ringing: single        
+H.320 Conversion: n
+Service Link Mode: as-needed
+Multimedia Mode: basic   
+MWI Served User Type: ...
+AUDIX Name
+...
+Automatic Moves
+no    
+Emergency Location Ext: 216-9988
+Precedence Call Waiting: y
+Auto Select Any Idle Appearance: n
+Coverage Msg Retrieval: y
+Auto Answer: none
+Data Restriction: n
+Idle Appearance Preference: n
+Bridged Idle Line Preference: n
+Restrict Last Appearance: y
+Per Station CPN - Send Calling Number: ...
+EC500 State
+enabled 
+Audible Message Waiting: n
+Display Client Redirection: n
+Select Last Used Appearance: n
+Coverage After Forwarding: s
+Multimedia Early Answer: n
+Direct IP-IP Audio Connections: y
+IP Audio Hairpinning: n
+STATION
+Conf/Trans on Primary Appearance: n
+Bridged Appearance Origination Restriction: n
+Enhanced Callr-Info Display for 1-Line Phones: n
+ENHANCED CALL FORWARDING
+Forwarded Destination
+Active
+Unconditional For 
+Busy For 
+No Reply For 
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+Internal Calls To: n
+External Calls To: n
+SAC/CF Override: n
+STATION
+SITE DATA
+Room: ...
+Jack
+...
+Cable
+...
+Floor
+...
+Building
+...
+Headset
+n
+Speaker: n
+Mounting: d
+Cord Length: 0 
+Set Color: ABBREVIATED DIALING
+List1: ...
+List2
+...
+List3
+BUTTON ASSIGNMENTS
+1: call-appr 
+2: call-appr 
+3: call-appr 
+4: ...
+5
+...
+6
+...
+7
+...
+8
+STATION
+SOFTKEY BUTTON ASSIGNMENTS
+1: directory 
+2: drop      
+3: int-aut-an
+4: timer     
+5: priority  
+6: auto-cback
+7: abr-prog  
+8: abr-spchar
+Char: ~p
+9: lwc-store 
+10: ringer-off
+11: btn-view  
+12: admin     
